@@ -5,4 +5,16 @@
     #hi{
      color: green ;
     }
-   
+   h1:hover
+   {   font-weight: 100;
+       background-color: blueviolet;
+       color: cornsilk !important;
+   }
+   input:focus
+   {
+       font-weight: 800;
+       color: rgb(100, 0, 8);
+   }
+  a:visited{
+      color: rgb(255, 0, 0);
+  }
